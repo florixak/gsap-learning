@@ -1,0 +1,32 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  margin: 0;
+  overflow: hidden;
+  background-color: #111;
+}
+
+.box,
+.box2 {
+  display: block;
+  width: 100px;
+  height: 100px;
+  position: relative;
+  border-radius: 10px;
+}
+
+.green {
+  background-color: greenyellow;
+}
+
+.text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: black;
+  font-size: 20px;
+  font-weight: bold;
+}

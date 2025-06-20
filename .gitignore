@@ -1,0 +1,16 @@
+# Vite
+
+node_modules/
+dist/
+.env
+.env._
+.vite/
+_.log
+
+# macOS
+
+.DS_Store
+
+# VS Code
+
+.vscode/
