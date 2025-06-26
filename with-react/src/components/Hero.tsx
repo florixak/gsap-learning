@@ -24,10 +24,11 @@ const Hero = () => {
               </p>
             </div>
 
-            <div className="view-cockrails">
+            <div className="view-cocktails">
               <p className="subtitle">
-                Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-                Architecto molestias at temporibus maxime! Autem fugit
+                Every cocktail on our menu is a blend of premium ingredients,
+                creative flair, and timeless recipes — designed to delight your
+                senses.
               </p>
             </div>
           </div>
